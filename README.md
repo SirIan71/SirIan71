@@ -3,10 +3,6 @@
 <h3 align="center">A passionate Data Scientist and ML engineer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src=https://tenor.com/view/programmer-gif-19019116>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirian71&label=Profile%20views&color=0e75b6&style=flat" alt="sirian71" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sirian71" alt="sirian71" /></a> </p>
-
 - 🔭 I’m currently working on [Movie recommendation system](https://github.com/SirIan71/MovieLens-Recommendations-System)
 
 - 🌱 I’m currently learning **FastApi, Deployment**
