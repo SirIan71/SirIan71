@@ -1,7 +1,7 @@
 [![MasterHead](<iframe src="https://giphy.com/embed/3o7TKzNcmYMe0hVsUU" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dance-trippy-space-3o7TKzNcmYMe0hVsUU">via GIPHY</a></p>)](https://sirian71.github.io)
 <h1 align="center">Hi 👋, I'm Ian</h1>
 <h3 align="center">A passionate Data Scientist and ML engineer from Kenya</h3>
-<img align="right" alt="Coding" width="400" src=https://tenor.com/view/programmer-gif-19019116>
+<img align="right" alt="Coding" width="400" src=https://tenor.com/view/programmer-gif-19019116.gif>
 
 - 🔭 I’m currently working on [Movie recommendation system](https://github.com/SirIan71/MovieLens-Recommendations-System)
 
