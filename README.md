@@ -1,11 +1,9 @@
-[![MasterHead]<iframe src="https://giphy.com/embed/3o7TKzNcmYMe0hVsUU" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dance-trippy-space-3o7TKzNcmYMe0hVsUU">via GIPHY</a></p>
-
 # 👋 Hi there! I'm Ian
 ## AI/ML Engineer
 
 Passionate about leveraging data to drive insights and building intelligent systems. With extensive experience in machine learning, data analysis, and software development, I enjoy solving complex problems and continuously learning new technologies.
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/programmer-gif-19019116.gif">
 
 
 <a href="http://www.github.com/SirIan71"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SirIan71&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
